@@ -128,15 +128,13 @@ function actualizarTotal() {
     total.innerText = `$${totalCalculado}`;
 }
 
-botonComprar.addEventListener("click", comprarCarrito);
-function comprarCarrito() {
-
-    productosEnCarrito.length = 0;
-    localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
-    
+botonComprar.addEventListener("click", mostrarFormularioCompra);
+function mostrarFormularioCompra() {
     contenedorCarritoVacio.classList.add("disabled");
     contenedorCarritoProductos.classList.add("disabled");
     contenedorCarritoAcciones.classList.add("disabled");
-    contenedorCarritoComprado.classList.remove("disabled");
-
+    contenedorCarritoComprado.classList.add("disabled");
+    
+    const formularioCompra = document.getElementById("formulario-compra");
+    formularioCompra.classList.remove("disabled");
 }
