@@ -1,0 +1,263 @@
+[
+    {
+        "id": "pulseras-protectoras-01",
+        "titulo": "Pulsera protectora",
+        "imagen": "./img/pulseras-protectoras/01.jpg",
+        "categoria": {
+            "nombre": "Pulseras protectoras",
+            "id": "pulseras-protectoras"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "pulseras-protectoras-02",
+        "titulo": "Pulsera protectora",
+        "imagen": "./img/pulseras-protectoras/02.jpg",
+        "categoria": {
+            "nombre": "Pulseras protectoras",
+            "id": "pulseras-protectoras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-protectoras-03",
+        "titulo": "Pulsera protectora",
+        "imagen": "./img/pulseras-protectoras/03.jpg",
+        "categoria": {
+            "nombre": "Pulseras protectoras",
+            "id": "pulseras-protectoras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-03",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/03.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-04",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/04.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-05",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/05.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-06",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/06.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-07",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/07.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-08",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/08.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-09",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/09.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-10",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/10.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-11",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/11.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-12",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/12.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-13",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/13.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-14",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/14.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-15",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/15.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-16",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/16.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-17",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/17.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-18",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/18.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-19",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/19.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-20",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/20.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-21",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/21.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-22",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/22.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-23",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/23.jpg",
+        "categoria": {
+            "nombre": "Pulseras para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pulseras-para-compartir-24",
+        "titulo": "Pulsera para compartir",
+        "imagen": "./img/pulseras-para-compartir/24.jpg",
+        "categoria": {
+            "nombre": "Pulsera para compartir",
+            "id": "pulseras-para-compartir"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "corbateros-01",
+        "titulo": "Corbatero",
+        "imagen": "./img/corbateros/01.jpg",
+        "categoria": {
+            "nombre": "Corbateros",
+            "id": "corbateros"
+        },
+        "precio": 1000
+    }
+]
